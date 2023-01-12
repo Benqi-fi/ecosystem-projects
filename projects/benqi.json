@@ -2,19 +2,21 @@
   "name": "BENQI",
   "slug": "benqi",
   "tags": [
-    "defi"
+    "defi",
+    "liquid staking",
+    "lending"
   ],
-  "status": "",
-  "highlight": "A non-custodial algorithmic liquidity market protocol.",
-  "logo": "/img/benqi.svg",
-  "website": "https://benqi.fi/",
+  "status": "live",
+  "highlight": "A liquid staking protocol and a non-custodial algorithmic liquidity market protocol native to Avalanche",
+  "summary": "BENQI is a decentralized finance platform built on Avalanche which consists of the BENQI Liquidity Market (BLM) and BENQI Liquid Staking (BLS). BLM enables users to effortlessly lend, borrow, and earn interest with their digital assets. Depositors providing liquidity to the protocol earn yield, while borrowers are able to borrow in an over-collateralized and permissionless manner. BLS tokenizes staked AVAX through a liquid staking derivative token, sAVAX. All AVAX assets are delegated to a public subset of Avalanche validators. sAVAX holders are able to use, swap or collateralize the yield-bearing asset within DeFi applications.",
+  "logo": "/img/benqi.png",
+  "website": "https://benqi.fi",
   "twitter": "https://twitter.com/BenqiFinance",
   "telegram": "https://t.me/BENQIFinance",
   "github": "https://github.com/Benqi-fi",
   "discord": "https://discord.gg/kNfnqcgj2H",
-  "summary": "",
-  "docs": "",
-  "cmc": "",
-  "date": "",
-  "token": ""
+  "docs": "https://docs.benqi.fi",
+  "date": "2021-08-19",
+  "cmc": "https://www.coingecko.com/en/coins/benqi",
+  "token": "QI"
 }
